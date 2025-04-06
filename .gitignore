@@ -1,0 +1,8 @@
+dados
+venv
+executavel
+*checkpoint.ipynb
+*.csv
+*.pyc
+*.ico
+gerar_executavel.py
